@@ -1,3 +1,5 @@
 # genticmesh-websocket-client
 ## Usage
-java -jar server address jwt token
+```
+java -jar server_address jwt_token
+```
